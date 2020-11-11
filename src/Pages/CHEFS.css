@@ -1,0 +1,29 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.esha__pic {
+  height: 450px;
+  width: 450px;
+  border-radius: 50%;
+}
+
+.EPIZA {
+  height: 650px;
+  width: 650px;
+}
+
+.btclr {
+  background-color: whitesmoke;
+}
+
+.E_font {
+  font-size: 20px;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.icons {
+  height: 90px;
+  widows: 90px;
+}

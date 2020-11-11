@@ -1,0 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.main__pic {
+  height: 10;
+  width: 15;
+}
+
+.font_large {
+  font-size: 2.5rem;
+  font-weight: 400;
+  font-family: nyt-karnak-display-130124, nyt-stymie, Georgia, "Times New Roman",
+    serif;
+}
+
+.fonttwo {
+  font-family: nyt-cheltenham, Georgia, "Times New Roman", serif;
+}
+
+.href {
+  color: black;
+  font-size: 15px;
+}
+
+.cake__size {
+  height: 700px;
+  width: 400px;
+}
+
+.cSize {
+  height: 565px;
+  width: 100px;
+}
+
+.t_clr {
+  color: whitesmoke;
+}
+
+.card {
+  transition: transform 450ms;
+}
+
+.card:hover {
+  transform: scale(1.08);
+}

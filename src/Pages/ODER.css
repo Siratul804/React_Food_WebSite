@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* .container {
+  border-radius: 5px;
+  background-image: linear-gradient(
+    to right,
+    rgb(255, 253, 253),
+    rgb(255, 254, 254)
+  );
+  padding: 20px;
+  margin: 60px;
+} */
+
+button:hover {
+  background-color: #924747;
+}
+
+.container__input {
+  width: 100%;
+  height: 100px;
+  padding: 10px 15px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  background-color: #f8f8f8;
+}
+.jak {
+  font-size: 120px;
+  text-align: center;
+}
+
+.container > h1 {
+  color: rgb(110, 49, 134);
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  font-size: 70px;
+}
+
+.container > form > label {
+  color: black;
+  font-size: 20px;
+}
+
+.container > form > button {
+  color: rgb(119, 165, 159);
+  font-size: 29px;
+  text-align: center;
+}
+
+.container > form > input {
+  color: #3a3434;
+}
+
+.container > form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+}

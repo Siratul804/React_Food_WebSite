@@ -1,0 +1,19 @@
+.Header {
+  text-align: center;
+  background-color: #f2f3ef;
+}
+
+.font {
+  font-size: 35px;
+  font-family: Impact, Charcoal, sans-serif;
+  color: rgba(175, 28, 77, 0.877);
+}
+
+.nav_bar {
+  background-color: #fff;
+}
+
+.nav_photo {
+  height: 65px;
+  width: 65px;
+}
